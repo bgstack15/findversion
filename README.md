@@ -1,2 +1,1 @@
-# findversion
-Script that displays files and version numbers
+#movingtogitlab [https://gitlab.com/bgstack15/findversion](https://gitlab.com/bgstack15/findversion)
